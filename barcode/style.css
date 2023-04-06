@@ -1,0 +1,47 @@
+@font-face {
+	font-family: 'Roboto';
+	src: url('fonts/Roboto-Regular.ttf');
+	font-weight: normal;
+	font-style: normal;
+	}
+*,#btn_submit,a:link{
+	font-family: 'Roboto', sans-serif;
+}
+
+fieldset label {
+	display: block;
+	margin: 5px 0px;
+}
+
+fieldset input#kode
+{
+	width: 220px;
+	height: 33px;
+	border: 1px solid #ddd;
+	margin: 5px 0px;
+	padding: 0px 5px;
+	
+}
+a{
+	margin-left:10px;
+	text-decoration:none;
+}
+#btn_submit,a{
+	display: inline;
+	margin-right: 10px;
+	background-color: #91091e;
+	color: white;
+	border-radius:3px;
+	opacity: 0.8;
+	padding: 10px 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+
+#btn_submit:hover,a:hover{
+	opacity: 1;
+}
+.result{
+	margin-left:10px;
+}
