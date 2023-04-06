@@ -11,7 +11,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="<?= base_url(); ?>assets/images/favicon/favicon.ico">
 
     <!-- Libs CSS -->
-    <script src="<?= base_url(); ?>assets/libs/jquery/dist/jquery.min.js"></script>
+    <script src="<?= base_url(); ?>themes/dashui/assets/libs/jquery/dist/jquery.min.js"></script>
     <link rel="stylesheet" href="<?= base_url(); ?>themes/dashui/assets/libs/prismjs/themes/prism.css">
     <link rel="stylesheet" href="<?= base_url(); ?>themes/dashui/assets/libs/prismjs/plugins/line-numbers/prism-line-numbers.css">
     <link rel="stylesheet" href="<?= base_url(); ?>themes/dashui/assets/libs/prismjs/plugins/toolbar/prism-toolbar.css">
