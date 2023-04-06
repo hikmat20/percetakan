@@ -12,17 +12,17 @@
 
     <!-- Libs CSS -->
     <script src="<?= base_url(); ?>assets/libs/jquery/dist/jquery.min.js"></script>
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/libs/prismjs/themes/prism.css">
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/libs/prismjs/plugins/line-numbers/prism-line-numbers.css">
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/libs/prismjs/plugins/toolbar/prism-toolbar.css">
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/libs/bootstrap-icons/font/bootstrap-icons.css">
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/fonts/font-awesome/css/font-awesome.css">
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/libs/dropzone/dist/dropzone.css">
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/libs/sweetalert2/sweetalert2.css">
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/libs/select2/css/select2.css">
-    <link rel="stylesheet" href="<?= base_url(); ?>assets\libs\datatables\dataTables.bootstrap5.css">
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/libs/select2-bootstrap-5-theme/dist/select2-bootstrap-5-theme.css">
-    <link href="<?= base_url(); ?>assets/libs/@mdi/font/css/materialdesignicons.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="<?= base_url(); ?>themes/dashui/assets/libs/prismjs/themes/prism.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>themes/dashui/assets/libs/prismjs/plugins/line-numbers/prism-line-numbers.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>themes/dashui/assets/libs/prismjs/plugins/toolbar/prism-toolbar.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>themes/dashui/assets/libs/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>themes/dashui/assets/fonts/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>themes/dashui/assets/libs/dropzone/dist/dropzone.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>themes/dashui/assets/libs/sweetalert2/sweetalert2.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>themes/dashui/assets/libs/select2/css/select2.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>themes/dashui/assets\libs\datatables\dataTables.bootstrap5.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>themes/dashui/assets/libs/select2-bootstrap-5-theme/dist/select2-bootstrap-5-theme.css">
+    <link href="<?= base_url(); ?>themes/dashui/assets/libs/@mdi/font/css/materialdesignicons.min.css" rel="stylesheet" />
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css"> -->
     <!-- Theme CSS -->

@@ -2,19 +2,19 @@
 </div>
 </div>
 <!-- Libs JS -->
-<script src="<?= base_url(); ?>assets/libs/jquery/dist/jquery.min.js"></script>
-<script src="<?= base_url(); ?>assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-<script src="<?= base_url(); ?>assets/libs/jquery-slimscroll/jquery.slimscroll.min.js"></script>
-<script src="<?= base_url(); ?>assets/libs/feather-icons/dist/feather.min.js"></script>
-<script src="<?= base_url(); ?>assets/libs/prismjs/components/prism-core.min.js"></script>
-<script src="<?= base_url(); ?>assets/libs/prismjs/components/prism-markup.min.js"></script>
-<script src="<?= base_url(); ?>assets/libs/prismjs/plugins/line-numbers/prism-line-numbers.min.js"></script>
-<script src="<?= base_url(); ?>assets/libs/apexcharts/dist/apexcharts.min.js"></script>
-<script src="<?= base_url(); ?>assets/libs/dropzone/dist/min/dropzone.min.js"></script>
-<script src="<?= base_url(); ?>assets/libs/sweetalert2/sweetalert2.js"></script>
-<script src="<?= base_url(); ?>assets\libs\datatables\dataTables.min.js"></script>
-<script src="<?= base_url(); ?>assets\libs\datatables\dataTables.bootstrap5.min.js"></script>
-<script src="<?= base_url(); ?>assets/libs/select2/js/select2.full.min.js"></script>
+<script src="<?= base_url(); ?>themes/dashui/assets/libs/jquery/dist/jquery.min.js"></script>
+<script src="<?= base_url(); ?>themes/dashui/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="<?= base_url(); ?>themes/dashui/assets/libs/jquery-slimscroll/jquery.slimscroll.min.js"></script>
+<script src="<?= base_url(); ?>themes/dashui/assets/libs/feather-icons/dist/feather.min.js"></script>
+<script src="<?= base_url(); ?>themes/dashui/assets/libs/prismjs/components/prism-core.min.js"></script>
+<script src="<?= base_url(); ?>themes/dashui/assets/libs/prismjs/components/prism-markup.min.js"></script>
+<script src="<?= base_url(); ?>themes/dashui/assets/libs/prismjs/plugins/line-numbers/prism-line-numbers.min.js"></script>
+<script src="<?= base_url(); ?>themes/dashui/assets/libs/apexcharts/dist/apexcharts.min.js"></script>
+<script src="<?= base_url(); ?>themes/dashui/assets/libs/dropzone/dist/min/dropzone.min.js"></script>
+<script src="<?= base_url(); ?>themes/dashui/assets/libs/sweetalert2/sweetalert2.js"></script>
+<script src="<?= base_url(); ?>themes/dashui/assets\libs\datatables\dataTables.min.js"></script>
+<script src="<?= base_url(); ?>themes/dashui/assets\libs\datatables\dataTables.bootstrap5.min.js"></script>
+<script src="<?= base_url(); ?>themes/dashui/assets/libs/select2/js/select2.full.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.12/clipboard.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
