@@ -26,7 +26,7 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css"> -->
     <!-- Theme CSS -->
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/css/theme.min.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>themes/dashui/assets/css/theme.min.css">
     <script type="text/javascript">
         var baseurl = "<?= base_url(); ?>";
         var siteurl = "<?php echo site_url(); ?>";

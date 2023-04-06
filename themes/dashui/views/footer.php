@@ -20,7 +20,7 @@
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
 
 <!-- Theme JS -->
-<script src="<?= base_url(); ?>assets/js/theme.min.js"></script>
+<script src="<?= base_url(); ?>themes/dashui/assets/js/theme.min.js"></script>
 <!-- page script -->
 </body>
 
